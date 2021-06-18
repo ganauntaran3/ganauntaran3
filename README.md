@@ -1,6 +1,11 @@
 ### Hi there I'm Gana Untaran👋
 
-[![Website](https://img.shields.io/badge/Text-Text-green?style=flat-square)](https://google.com)
+[![Website](https://img.shields.io/badge/Laravel-Intermediate-red?style=flat-square)](https://google.com)
+[![Website](https://img.shields.io/badge/HTML5-Intermediate-orange?style=flat-square)](https://google.com)
+[![Website](https://img.shields.io/badge/CSS-Intermediate-blue?style=flat-square)](https://google.com)
+[![Website](https://img.shields.io/badge/PHP^7-Intermediate-purple?style=flat-square)](https://google.com)
+[![Website](https://img.shields.io/badge/Javascript-Beginner-yellow?style=flat-square)](https://google.com)
+
 
 ## Blockchain Enthusiast and Web Developer
 
@@ -8,7 +13,7 @@
 
 Here are some ideas to get you started: -->
 
-- 🌱 I’m currently learning Blockchain Ethereum and also advanced Javascript
+- 🌱 I’m currently learning Blockchain Ethereum and also Javascript
 - 👯 I’m looking to collaborate with other blockchain developer
 - 💬 Ask me about Laravel anytime & anywhere
 - ⚡ Fun fact: I'm fairly good to play game
