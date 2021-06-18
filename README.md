@@ -2,6 +2,8 @@
 
 [![Website](https://img.shields.io/badge/Text-Text-green?style=flat-square)](https://google.com)
 
+## Blockchain Enthusiast and Web Developer
+
 <!-- **ganauntaran3/ganauntaran3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: -->
