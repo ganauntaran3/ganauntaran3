@@ -13,10 +13,10 @@
 
 Here are some ideas to get you started: -->
 
-- 🌱 I’m currently learning Blockchain Ethereum and also Javascript
-- 👯 I’m looking to collaborate with other blockchain developer
-- 💬 Ask me about Laravel anytime & anywhere
-- ⚡ Fun fact: I'm fairly good to play game
+- 🌱 I’m currently learning at ITB STIKOM Bali and joined Lithan Edu CLaaS Bootcamp of Digital System Administration
+- 👯 I’m looking to have a chance for apprenticeship
+- 💬 Ask and share about programming anytime & anywhere
+- ⚡ Fun fact: I'm fairly good to play game, and i loved to play music and read books
 
 
 [![Indrajeet's github stats](https://github-readme-stats.vercel.app/api?username=ganauntaran3&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
